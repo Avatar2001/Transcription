@@ -3,7 +3,7 @@
 A simple web application built with Streamlit that uses OpenAI's Whisper model to transcribe audio files.
 
 ## Features
-- Upload audio files (mp3, wav, ogg)
+- Upload audio files (mp3, mp4, wav, ogg)
 - Automatic transcription using Whisper
 - Simple and intuitive interface
 
